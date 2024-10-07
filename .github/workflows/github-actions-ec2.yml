@@ -1,5 +1,5 @@
+ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
 name: Push-to-EC2
-
 # Trigger deployment only on push to main branch
 on:
   push:
